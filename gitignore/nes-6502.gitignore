@@ -1,0 +1,27 @@
+# Editor swap files
+.*.sw[op]
+*.swp
+*.swo
+*~
+
+# 6502 object files
+*.o
+
+# NES ROM output
+*.nes
+*.nes.dbg
+*.nes.deb
+
+# Debugger / map files
+*.dbg
+*.map.txt
+*.labels.txt
+*.d
+
+# Editor config
+.exrc
+.vimrc
+
+# Generated CHR data
+chr/*.chr
+chr/*.png
