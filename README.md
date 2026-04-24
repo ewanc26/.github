@@ -2,6 +2,8 @@
 
 Default community health files and organisation-wide configuration for [@ewanc26](https://github.com/ewanc26)'s repositories.
 
+> 🧶 Also available on [Tangled](https://tangled.org/ewancroft.uk/github-metadata)
+
 ## What's here
 
 - `FUNDING.yml` — sponsor/funding links surfaced on all repos
