@@ -1,1 +1,2 @@
+# Intentionally minimal — templates live in gitignore/ and get copied per-repo.
 .DS_Store
