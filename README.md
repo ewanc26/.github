@@ -2,14 +2,11 @@
 
 Default community health files and organisation-wide configuration for [@ewanc26](https://github.com/ewanc26)'s repositories.
 
-> 🧶 Also available on [Tangled](https://tangled.org/ewancroft.uk/github-metadata)
-
 ## What's here
 
 - `FUNDING.yml` — sponsor/funding links surfaced on all repos
 - `CONTRIBUTING.md` — default contributing guidelines
 - `SECURITY.md` — vulnerability reporting policy
-- `profile/README.md` — GitHub profile README (local reference only; must live in the `ewanc26` repo to render)
 - `gitignore/` — reference `.gitignore` templates by stack
   - `sveltekit.gitignore`
   - `python.gitignore`
