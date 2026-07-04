@@ -1,0 +1,15 @@
+# Linguist configuration
+# Exclude Makefiles and build files from language stats
+*.mk linguist-vendored
+Makefile linguist-vendored
+makefile linguist-vendored
+GNUmakefile linguist-vendored
+
+# Exclude generated/third-party files
+**/node_modules/** linguist-vendored
+**/dist/** linguist-vendored
+**/build/** linguist-vendored
+**/.git/** linguist-vendored
+
+# Mark Nix files as documentation (not code)
+*.nix linguist-documentation
