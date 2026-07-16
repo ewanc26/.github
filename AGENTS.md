@@ -7,6 +7,7 @@ Guidance for agents working on the account-wide `.github` repository.
 - `.github/` contains default community health files inherited by repositories that do not define their own versions.
 - Root `CONTRIBUTING.md`, `SECURITY.md`, and `FUNDING.yml` are account-wide defaults.
 - `gitignore/` and `gitattributes/` are reference templates copied manually; GitHub does not inherit them.
+- `.github/linguist.yml` classifies build outputs as vendored and Nix files as documentation for language statistics.
 
 ## Rules
 
@@ -15,7 +16,7 @@ Guidance for agents working on the account-wide `.github` repository.
 - Funding identifiers and links must be exact; never add payment secrets.
 - Reference templates should be conservative: do not ignore source, fixtures, lockfiles, or required generated artifacts without a documented reason.
 - Preserve line-ending/text normalization behavior in `.gitattributes` examples.
-- Keep README inventory synchronized with actual files.
+- Keep README inventory synchronized with actual files. At present it lists five ignore templates and the single default attributes template.
 
 ## Validation
 
