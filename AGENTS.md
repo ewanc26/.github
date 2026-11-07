@@ -20,4 +20,4 @@ Guidance for AI coding agents working in **.github**.
 
 ## Recent history
 
-Sync AGENTS.md from zincfox; Sync CONTRIBUTING.md from zincfox; Sync AGENTS.md from zincfox; Sync CONTRIBUTING.md from zincfox; docs: correct agent guidance after source audit
+docs: correct agent guidance after source audit
