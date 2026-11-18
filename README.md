@@ -20,4 +20,4 @@ Default community health files and organisation-wide configuration for [@ewanc26
 
 ## Sponsorship
 
-If you find my work useful, consider supporting me via [GitHub Sponsors](https://github.com/sponsors/ewanc26) or [Ko-fi](https://ko-fi.com/ewancroft).
+If you find my work useful, consider supporting me via [GitHub Sponsors](https://github.com/sponsors/ewanc26), [Ko-fi](https://ko-fi.com/ewancroft) or [Liberapay](https://liberapay.com/ewanc26/).
