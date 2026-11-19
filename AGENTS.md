@@ -4,6 +4,8 @@ Guidance for AI coding agents working in **.github**.
 
 ## Project overview
 
+Default community health files and organisation-wide configuration for [@ewanc26](https://github.com/ewanc26)'s repositories.
+
 - Language: metadata
 - Default branch: main
 
